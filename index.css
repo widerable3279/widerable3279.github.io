@@ -1,0 +1,31 @@
+body {
+    background-color: beige;
+}
+h2 {
+    text-align: center;
+
+}
+a {
+    color: rgb(0, 183, 255);
+}
+ .profile {
+    border: 10px;
+    border-style: solid;
+    color: blue;
+    text-align: center;
+    margin: 3px 600px 3px 600px;
+
+}
+ .tmi {
+    text-align: center;
+    color: rgba(0, 68, 255, 0.671);
+    border: 10px;
+    border-style: solid;
+    margin: 3px 600px 3px 600px;
+
+}
+h1 {
+    text-align: center;
+    color: red;
+
+}
